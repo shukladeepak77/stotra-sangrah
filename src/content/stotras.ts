@@ -29,7 +29,7 @@ export const stotraCategories: StotraCategory[] = [
   {
     slug: "ganesh",
     title: "श्री गणेश स्तोत्र",
-    icon: "🐘",
+    icon: "ॐ",
     description: "विघ्नहर्ता श्री गणेश जी की स्तुतियाँ",
     stotras: [
       {
@@ -1297,7 +1297,7 @@ export const stotraCategories: StotraCategory[] = [
   {
     slug: "hanuman",
     title: "श्री हनुमान स्तोत्र",
-    icon: "🐒",
+    icon: "🚩",
     description: "संकटमोचन श्री हनुमान जी की संस्कृत स्तुतियाँ",
     stotras: [
       {
